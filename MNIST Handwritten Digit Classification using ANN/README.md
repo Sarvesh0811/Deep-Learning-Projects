@@ -1,4 +1,4 @@
-# MNIST Handwritten Digits Recognition
+# MNIST DATASETS KERAS
 
 # Dataset Information
 
